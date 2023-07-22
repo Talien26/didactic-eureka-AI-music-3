@@ -1,0 +1,40 @@
+.heading{
+    font-size: 23px;
+    margin: 0px;
+    width: 100%;
+    font-family: cursive;
+}
+.note{
+    font-size: 15px;
+    color: #FFE0AD;
+    text-shadow: #FFE0AD;
+}
+body{
+    background-size: cover;
+}
+
+#volume{
+    font-size: 15px;
+    margin: 15px;
+}
+.volume_div{
+    float: right;
+}
+.div_volume_img{
+    width: 200px;
+    border-radius: 200px;
+}
+#music{
+    font-size: 15px;
+    margin: 15px;
+}
+.music_div{
+    float: left;
+}
+.div_music_img{
+    width: 119.25px;
+    height: 124.5px;
+}
+video{
+    border-radius: 100px;
+}
